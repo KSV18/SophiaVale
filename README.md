@@ -1,1 +1,4 @@
-# Sophiav
+# Sophia's Portfolio
+!(.SVjpg)
+
+
