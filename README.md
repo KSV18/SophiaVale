@@ -4,8 +4,8 @@
 ## Description
 Showcase skills obtained and projects completed from the course.
 
-##Updates
+###Updates
 coming soon
 
-###Contact me @
+Contact me @
 <kia.rage@gmail.com>
