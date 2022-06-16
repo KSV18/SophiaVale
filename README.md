@@ -4,8 +4,8 @@
 ## Description
 Showcase skills obtained and projects completed from MIT Bootcamp.
 
-### Updates
+### 📌 Updates
 coming soon
 
-#### Contact me @
+#### 📧 Contact me @ :email:
 <kia.rage@gmail.com>
