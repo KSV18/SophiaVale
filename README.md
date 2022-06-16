@@ -7,5 +7,5 @@ Showcase skills obtained and projects completed from MIT Bootcamp.
 ### 📌 Updates
 coming soon
 
-#### 📧 Contact me @ :email:
+#### 📧 Contact info
 <kia.rage@gmail.com>
