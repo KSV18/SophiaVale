@@ -4,10 +4,15 @@
   
   /* Style the body */
   body {
-    font-family: Arial;
     margin: 0;
+    font-family: 'Asap', sans-serif;
+    background-color: #faf8ef;
   }
   
+  p {
+    font-size: 18px;
+  }
+
   
   /* Style the top navigation bar */
   .navbar {
@@ -44,8 +49,18 @@
   
   .image {
     flex: 50%;
-    background-color: #f1f1f1;
+    filter: grayscale(50%);
+    background-image:url('20210918_063524.jpg');
+    
+    background-size: cover;
     padding: 20px;
+  }
+  
+  .pic {
+    
+    width: 200px;
+    border: 5px solid white;
+    border-radius: 4px;
   }
 
   .cardimgtop {
@@ -56,24 +71,43 @@
   /* Main column */
   .bio {
     flex: 50%;
-    background-color: azure;
-    padding: 20px;
+    background-color: #5081a9;
+    padding: 50px;
+    gap: 5px;
   }
+
+  .bio p {
+    font-size: 20px;
+    text-align: justify;
+    text-justify: inter-word;
+    color:#fbeeb4;
+  }
+
+  .bio h6 {
+    font-size: 26px;
+    text-align: justifyr;
+    color:#fbeeb4;
+  }
+
+
   .card {
     margin: 10px;
   }
-  /* Fake image, just for this example */
-  .fakeimg {
+
+
+  /* Fake image, for placement */
+  /*.fakeimg {
     background-color: #aaa;
     width: 50%;
     padding: 20px;
-  }
+  }*/
   
   /* Footer */
   .footer {
     padding: 20px;
     text-align: center;
-    background: #ddd;
+    background: #5081a9;
+    color:white;
   }
   
   /* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
