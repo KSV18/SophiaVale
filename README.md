@@ -5,7 +5,7 @@
 Showcase skills obtained and projects completed from MIT Bootcamp.
 
 ### 📌 Updates
-coming soon
+Added repositories for Eyes, Pacman and Bus Tracker projects.
 
 #### 📧 Contact info
 <kia.rage@gmail.com>
