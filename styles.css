@@ -9,6 +9,27 @@
     background-color: #faf8ef;
   }
   
+  /*Style links*/
+  a.dark:link {
+    text-decoration: none;
+    color: black;
+  }
+  
+  a:visited {
+    text-decoration: none;
+  }
+  
+  a.dark:hover {
+    text-decoration: underline;
+    color: white;
+
+  }
+  
+  a:active {
+    text-decoration: underline;
+  }
+
+
   p {
     font-size: 18px;
   }
