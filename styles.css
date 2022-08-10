@@ -6,7 +6,11 @@
   body {
     margin: 0;
     font-family: 'Asap', sans-serif;
-    background-color: #faf8ef;
+    color: #fbf5d8;
+  }
+
+  .back{
+    background-color: #fbf8ec;
   }
   
   /*Style links*/
@@ -113,6 +117,15 @@
 
   .card {
     margin: 10px;
+  }
+  
+  .card-title {
+    color: #fbf8ec;
+  }
+  
+  .card-text {
+    color:#fbf8ec;
+
   }
 
 
